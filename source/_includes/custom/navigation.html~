@@ -21,7 +21,7 @@
 		    <a href="{{ root_url }}/projects/" class="dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b></a>
 		    <ul class="dropdown-menu">
                         <li><a href="{{ root_url }}/mesummer/">Mobile Egypt: Summer</a></li>
-			<li><a href="{{ root_url }}/methesis/">Mobile Egypt; Thesis</a></li>
+			<li><a href="{{ root_url }}/methesis/">Mobile Egypt: Thesis</a></li>
 			<li><a href="{{ root_url }}/forumlastudent/">Data Vis and VR</a></li>
 		    </ul>
                 </li>

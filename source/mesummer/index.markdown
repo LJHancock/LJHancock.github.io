@@ -15,7 +15,8 @@ The goal of this project was to improve the interactive experience within museum
 This project was completed using Unity3D, C# for scripting and Vuforia to deal with the Augmented Reality.
 
 ##Screenshots
-![Anubis Model](../images/MEPics/anubisAR.png AnubisAR)
+####Augmented Reality
+{% img /images/MEPics/anubisAR.png Anubis Augmented Reality %}
 
 
 

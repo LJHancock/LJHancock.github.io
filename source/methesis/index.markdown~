@@ -13,13 +13,4 @@ An evolution of the Mobile Egypt: Summer Project. This was used as my third year
 The project uses the Unity3D engine, scripted with C#. The object recognition is powered by OpenCV and C++. Then it is all packaged up in Android!
 
 ##Screenshots 
-####Object Recognition
-{% img /images/MEPics/itworks.jpg Object Recognition %}
-####Story View
-{% img /images/MEPics/StoryView.jpg Story View %}
-####Map View
-{% img /images/MEPics/MapView.jpg Map View %}
-####Augmented Reality
-{% img /images/MEPics/ARView.jpg Augmented Reality view %}
-####Object Creation
-{% img /images/MEPics/babirdMarkers.JPG Creating 3D Models %}
+{% img /images/MEPics/itworks.jpg 'Object Recognition' %}
