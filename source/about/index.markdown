@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Who Am I?"
+comments: false
+sharing: false
+footer: false
+---
+
+Hey, I'm Lewis. Currently an MEng student at Swansesa University with a passion for Human-Computer Interaction and Game Development. How people interact with technology is becoming more important and applying this to game development is what excites me the most.
+
+I also have an interest in 3D Graphics, Augmented and Virtual realities and Game Design.
+
+When not sat behind a keyboard you'll find me enjoying live folk music, real ale, juggling or skiing.
